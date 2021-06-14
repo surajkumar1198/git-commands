@@ -6,4 +6,6 @@
 5. git pull
 6. git merge
 7. git restore
-
+8. git branch
+9. git checkout
+10. git log
